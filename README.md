@@ -5,8 +5,8 @@
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 - [Link to the Weekly contents of COMP 1238](comp1238.md)
 
-Monday
-13:00 - COMP1238 - Data Mgmnt
-16:00 - COMP0000 - Not a real course
-Tuesday
-etc
+- Monday
+ - 13:00 - COMP1238 - Data Mgmnt
+ - 16:00 - COMP0000 - Not a real course
+- Tuesday
+ - etc
