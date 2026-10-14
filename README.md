@@ -6,7 +6,7 @@
 - [Link to the Weekly contents of COMP 1238](comp1238.md)
 
 - Monday
- - 13:00 - COMP1238 - Data Mgmnt
- - 16:00 - COMP0000 - Not a real course
++ 13:00 - COMP1238 - Data Mgmnt
++ 16:00 - COMP0000 - Not a real course
 - Tuesday
- - etc
++ etc
